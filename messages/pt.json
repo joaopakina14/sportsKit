@@ -3,6 +3,24 @@
     "title": "sportsKit - Equipamento Desportivo Premium",
     "delivery": "Entrega rápida em 15 dias para todo o mundo",
     "guarantee": "Garantia de reenvio na alfândega: Cuidamos de tudo por si.",
-    "cta": "Comprar Agora"
+    "cta": "Comprar Agora",
+    "catalog": {
+      "title": "Explore os Nossos Kits",
+      "searchPlaceholder": "Procurar por equipa ou nome...",
+      "filterAll": "Todas as Equipas",
+      "filterClubs": "Clubes",
+      "filterNational": "Seleções",
+      "noResults": "Nenhuma camisola encontrada."
+    },
+    "product": {
+      "selectSize": "Selecionar Tamanho",
+      "personalization": "Personalização",
+      "customName": "Nome na camisola",
+      "customNumber": "Número",
+      "addPatch": "Adicionar Patch (+10,00€)",
+      "addToCart": "Adicionar ao Carrinho",
+      "processing": "A processar...",
+      "buyNow": "Comprar com PayPal"
+    }
   }
 }

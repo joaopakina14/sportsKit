@@ -24,8 +24,8 @@ export default function Navbar() {
         </Link>
         
         <div className={styles.links}>
-          <Link href="/">Shop</Link>
-          <Link href="/">Collections</Link>
+          <Link href="/catalog">Catalog</Link>
+          <Link href="/catalog?type=National">National Teams</Link>
           <Link href="/">Support</Link>
         </div>
 

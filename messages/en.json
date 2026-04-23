@@ -3,6 +3,24 @@
     "title": "sportsKit - Premium Sports Apparel",
     "delivery": "Fast 15-day delivery worldwide",
     "guarantee": "Customs resend guarantee: We've got you covered.",
-    "cta": "Shop Now"
+    "cta": "Shop Now",
+    "catalog": {
+      "title": "Explore Our Kits",
+      "searchPlaceholder": "Search by team or jersey name...",
+      "filterAll": "All Teams",
+      "filterClubs": "Clubs",
+      "filterNational": "National Teams",
+      "noResults": "No jerseys found for your search."
+    },
+    "product": {
+      "selectSize": "Select Size",
+      "personalization": "Personalization",
+      "customName": "Name on jersey",
+      "customNumber": "Number",
+      "addPatch": "Add Patch (+€10.00)",
+      "addToCart": "Add to Cart",
+      "processing": "Processing...",
+      "buyNow": "Buy with PayPal"
+    }
   }
 }
